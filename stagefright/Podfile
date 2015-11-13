@@ -1,0 +1,20 @@
+xcodeproj 'stagefright.xcodeproj'
+
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'stagefright' do
+
+pod 'Google/Analytics'
+pod 'Google/AdMob'
+
+end
+
+target 'stagefrightTests' do
+
+end
+
+target 'stagefrightUITests' do
+
+end
+
